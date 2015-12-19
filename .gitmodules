@@ -1,3 +1,6 @@
 [submodule "Marlin"]
 	path = Marlin
 	url = https://github.com/sarchar/Marlin
+[submodule "AndroidApp"]
+	path = AndroidApp
+	url = https://github.com/sarchar/ThreeDPrinter
