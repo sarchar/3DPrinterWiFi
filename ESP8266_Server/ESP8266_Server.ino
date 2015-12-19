@@ -14,8 +14,8 @@
 #define RAMPS_SERIAL_BAUDRATE 115200
 
 // Set your wifi name and password here:
-#define WIFI_NAME "essidname"
-#define WIFI_PASSWORD "mypassword"
+#define WIFI_NAME "Kush Manor 4"
+#define WIFI_PASSWORD "KushManor123"
 
 #define MULTICAST_ADDR  224, 1, 1, 1
 #define MULTICAST_PORT  10334
