@@ -1,0 +1,10 @@
+*.o
+*~
+*.orig
+*.rej
+*.bak
+*.DS_Store
+*.idea
+*.swp
+*.swo
+ESP8266_Server/MarlinWiFi.h
