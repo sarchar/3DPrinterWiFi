@@ -61,6 +61,8 @@ If you know the IP address of the module, you can connect to http://esp8266_ip_a
 
 ## Step 3. Android Application
 
+![Image 1](https://github.com/sarchar/3DPrinterWiFi/blob/master/docs/1.png) ![Image 2](https://github.com/sarchar/3DPrinterWiFi/blob/master/docs/2.png)
+
 **Note**: I've included a prebuilt APK if you choose not to build it yourself.  If you want to build the android application, read on.
 
 This project is a bit harder to build than the last two.  I've only ever built this project on Linux, so if you're using another OS...good luck!
